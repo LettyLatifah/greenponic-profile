@@ -378,7 +378,7 @@ h6 {
   right: 0;
 }
 #hero .container {
-  padding-top: 80px;
+  padding-top: 180px;
 }
 #hero h1 {
   margin: 0;
@@ -403,54 +403,14 @@ h6 {
   border-radius: 5px;
   transition: 0.5s;
   margin-top: 30px;
+  margin-bottom: 100px;
   color: #fff;
   background: #2487ce;
 }
 #hero .btn-get-started:hover {
   background: #3194db;
 }
-#hero .icon-boxes {
-  margin-top: 100px;
-}
-#hero .icon-box {
-  padding: 50px 30px;
-  position: relative;
-  overflow: hidden;
-  background: #fff;
-  box-shadow: 0 0 29px 0 rgba(18, 66, 101, 0.08);
-  transition: all 0.3s ease-in-out;
-  border-radius: 8px;
-  z-index: 1;
-}
-#hero .icon-box .title {
-  font-weight: 700;
-  margin-bottom: 15px;
-  font-size: 18px;
-}
-#hero .icon-box .title a {
-  color: #124265;
-  transition: 0.3s;
-}
-#hero .icon-box .description {
-  font-size: 15px;
-  line-height: 28px;
-  margin-bottom: 0;
-}
-#hero .icon-box .icon {
-  margin-bottom: 20px;
-  padding-top: 10px;
-  display: inline-block;
-  transition: all 0.3s ease-in-out;
-  font-size: 36px;
-  line-height: 1;
-  color: #2487ce;
-}
-#hero .icon-box:hover {
-  transform: scale(1.08);
-}
-#hero .icon-box:hover .title a {
-  color: #2487ce;
-}
+
 @media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
@@ -554,6 +514,10 @@ section {
   background: #2487ce;
   color: #fff;
   text-decoration: none;
+}
+
+.about img {
+  width: 100%;
 }
 
 /*--------------------------------------------------------------
