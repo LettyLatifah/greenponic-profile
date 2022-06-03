@@ -449,13 +449,23 @@ section {
 
 .section-title {
   text-align: center;
-  padding-bottom: 30px;
+  padding-bottom: 20px;
 }
 .section-title h2 {
   font-size: 32px;
   font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 20px;
+  padding-bottom: 0;
+  color: #124265;
+}
+
+.section-title h3 {
+  font-size: 24px;
+  font-weight: bold;
+  /* text-transform: uppercase; */
+  margin-top: 20px;
+  margin-bottom: 10px;
   padding-bottom: 0;
   color: #124265;
 }
@@ -1122,6 +1132,11 @@ section {
 .team .member .member-img {
   position: relative;
   overflow: hidden;
+}
+
+.team .row .h3 {
+  text-align: center;
+  color: #124265;
 }
 .team .member .social {
   position: absolute;
