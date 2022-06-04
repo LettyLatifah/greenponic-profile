@@ -54,7 +54,7 @@ h6 {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #3e9bdd;
+  background: #4c9305;
   color: #fff;
 }
 .back-to-top.active {
@@ -140,10 +140,12 @@ h6 {
   font-family: 'Poppins', sans-serif;
 }
 #header .logo a {
-  color: #16507b;
+  color: #4c9305;
+  font-weight: bolder;
 }
 #header .logo img {
   max-height: 40px;
+  margin-right: 3%;
 }
 @media (max-width: 992px) {
   #header .logo {
@@ -177,7 +179,7 @@ h6 {
   justify-content: space-between;
   padding: 10px 0 10px 30px;
   font-size: 14px;
-  color: #16507b;
+  color: #81b64b;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -188,10 +190,13 @@ h6 {
   margin-left: 5px;
 }
 .navbar a:hover,
-.navbar .active,
 .navbar .active:focus,
 .navbar li:hover > a {
-  color: #81b64b;
+  color: #4c9305;
+}
+.navbar .active {
+  font-weight: bolder;
+  color: #4c9305;
 }
 .navbar .getstarted,
 .navbar .getstarted:focus {
@@ -204,7 +209,7 @@ h6 {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #81b64b;
+  background: #4c9305;
 }
 .navbar .dropdown ul {
   display: block;
@@ -385,7 +390,7 @@ h6 {
   font-size: 56px;
   font-weight: 700;
   line-height: 72px;
-  color: #124265;
+  color: #2a3842;
   font-family: 'Poppins', sans-serif;
 }
 #hero h2 {
@@ -408,7 +413,7 @@ h6 {
   background: #81b64b;
 }
 #hero .btn-get-started:hover {
-  background: #3194db;
+  background: #4c9305;
 }
 
 @media (min-width: 1024px) {
@@ -457,7 +462,7 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #124265;
+  color: #2a3842;
 }
 
 .section-title h3 {
@@ -467,7 +472,7 @@ section {
   margin-top: 20px;
   margin-bottom: 10px;
   padding-bottom: 0;
-  color: #124265;
+  color: #2a3842;
 }
 .section-title p {
   margin-bottom: 0;
@@ -545,7 +550,7 @@ section {
   line-height: 48px;
   display: block;
   font-weight: 700;
-  color: #124265;
+  color: #2a3842;
   margin-left: 80px;
   margin: auto;
 }
@@ -554,7 +559,7 @@ section {
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
   font-size: 14px;
-  color: #1e6ca6;
+  color: #5e5e5e;
 }
 
 /*--------------------------------------------------------------
@@ -566,7 +571,7 @@ section {
 .about-video .content h3 {
   font-weight: 700;
   font-size: 24px;
-  color: #124265;
+  color: #2a3842;
 }
 .about-video .content ul {
   list-style: none;
@@ -590,7 +595,7 @@ section {
 .about-video .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#81b64b 50%, rgba(36, 135, 206, 0.4) 52%);
+  background: radial-gradient(#81b64b 50%, rgba(90, 206, 36, 0.4) 52%);
   border-radius: 50%;
   display: block;
   position: absolute;
@@ -629,7 +634,7 @@ section {
   animation-timing-function: steps;
   opacity: 1;
   border-radius: 50%;
-  border: 5px solid rgba(36, 135, 206, 0.7);
+  border: 5px solid rgba(79, 206, 36, 0.7);
   top: -15%;
   left: -15%;
   background: rgba(198, 16, 0, 0);
@@ -820,7 +825,7 @@ section {
   font-size: 22px;
 }
 .services .icon-box h4 a {
-  color: #124265;
+  color: #2a3842;
   transition: ease-in-out 0.3s;
 }
 .services .icon-box p {
@@ -1136,7 +1141,7 @@ section {
 
 .team .row .h3 {
   text-align: center;
-  color: #124265;
+  color: #2a3842;
 }
 .team .member .social {
   position: absolute;
@@ -1154,7 +1159,7 @@ section {
 }
 .team .member .social a {
   transition: color 0.3s;
-  color: #124265;
+  color: #4c9305;
   margin: 0 10px;
   display: inline-block;
 }
@@ -1173,7 +1178,7 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 18px;
-  color: #124265;
+  color: #2a3842;
 }
 .team .member .member-info span {
   display: block;
@@ -1381,13 +1386,13 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #124265;
+  color: #2a3842;
 }
 .contact .info p {
   padding: 0 0 0 60px;
   margin-bottom: 0;
   font-size: 14px;
-  color: #217bbc;
+  color: #81b64b;
 }
 .contact .info .email,
 .contact .info .phone {
@@ -1469,7 +1474,7 @@ section {
   border-radius: 4px;
 }
 .contact .php-email-form button[type='submit']:hover {
-  background: #3194db;
+  background: #4c9305;
 }
 @-webkit-keyframes animate-loading {
   0% {
@@ -1644,7 +1649,7 @@ section {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 #footer .footer-newsletter form input[type='submit']:hover {
-  background: #3194db;
+  background: #4c9305;
 }
 #footer .credits {
   padding-top: 5px;
@@ -1666,7 +1671,7 @@ section {
   transition: 0.3s;
 }
 #footer .social-links a:hover {
-  background: #3194db;
+  background: #4c9305;
   color: #fff;
   text-decoration: none;
 }
