@@ -562,6 +562,9 @@ section {
 .about-video .content {
   font-size: 15px;
 }
+.about-video img {
+  border-radius: 10px;
+}
 .about-video .content h3 {
   font-weight: 700;
   font-size: 24px;
@@ -1118,6 +1121,24 @@ section {
 }
 .portfolio-details .portfolio-description p {
   padding: 0;
+}
+
+.portfolio-details .social-links {
+  margin-top: 20px;
+}
+.portfolio-details .social-links a {
+  font-size: 18px;
+  display: inline-block;
+  background: #81b64b;
+  color: #fff;
+  line-height: 1;
+  padding: 8px 0;
+  margin-right: 4px;
+  border-radius: 5px;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+  transition: 0.3s;
 }
 
 /*--------------------------------------------------------------
