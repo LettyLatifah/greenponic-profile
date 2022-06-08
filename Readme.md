@@ -6,6 +6,7 @@ Hydroponic monitoring application by HY-02 team from Indosat Ooredoo Hutchison. 
 <h2>Team Members</h2>
 
 <h3>Machine Learning</h3>
+
 | Name |Role |
 |:----:|:----:|
 |Annastya Bagas Dewantara|Team Leader|
