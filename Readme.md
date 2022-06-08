@@ -3,9 +3,9 @@
 
 Hydroponic monitoring application by HY-02 team from Indosat Ooredoo Hutchison. Greenponic is the HY-02 team from Indosat Ooredoo Hutchison which consists of 9 members, each path consists of 3 members. Greenponic focuses on making monitoring applications for hydroponic plants for making it easier to monitor hydroponic plants remotely in real-time.
 
-##Team Members
+<h2>Team Members</h2>
 
-###Machine Learning
+<h3>Machine Learning</h3>
 | Name |Role |
 |:----:|:----:|
 |Annastya Bagas Dewantara|Team Leader|
