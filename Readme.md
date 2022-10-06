@@ -12,3 +12,19 @@ Hydroponic monitoring application by HY-02 team from Indosat Ooredoo Hutchison. 
 |Annastya Bagas Dewantara|Team Leader|
 |Miftahul Jannah|Scrum Master|
 |Wisanggeni Titovandaru|Member|
+
+<h3>Mobile Development</h3>
+
+| Name |Role |
+|:----:|:----:|
+|Hafizhan Khair|Path Leader|
+|Ibnu Haikal Elhadi|Member|
+|Abet Ambara|Member|
+
+<h3>Cloud Computing</h3>
+
+| Name |Role |
+|:----:|:----:|
+|Alfi Sahri|Team Leader|
+|Letty Latifani Arifah|Member|
+|Rachmi Muti'ah Fadillah|Member|
